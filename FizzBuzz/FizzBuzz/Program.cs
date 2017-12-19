@@ -71,7 +71,7 @@ namespace FizzBuzz
                         }
                         else
                         {
-                            Console.Clear();
+                            Console.Clear(); 
                             Console.WriteLine("What was that? (y/n)");
                             Console.ReadLine();
                         }
